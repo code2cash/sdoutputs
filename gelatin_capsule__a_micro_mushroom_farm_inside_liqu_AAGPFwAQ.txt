@@ -1,0 +1,14 @@
+Prompt: gelatin capsule, a micro mushroom farm inside liquid gelcaps, inside gelatin https://procana.com/wp-content/uploads/2021/08/CBDSoftgel-600x600.jpeg full body, highly detailed and intricate, golden ratio, vibrant colors, hyper maximalist, futuristic, city background, luxury, elite, cinematic, fashion, depth of field, colorful, glow, trending on artstation, ultra high detail, ultra realistic, cinematic lighting, focused, 8k,
+Negative Prompt: child, childish
+Seed: 5000992
+Width: 512
+Height: 768
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Sampler: euler_a
+Hypernetwork Strength: 0
+Stable Diffusion model: D:\Stable-Diffusion2\models\stable-diffusion\protogenX53Photorealism_10.safetensors
+Hypernetwork model: None
+Use Face Correction: None
+Use Upscaling: None
